@@ -1,0 +1,9 @@
+a{
+    color: rgba(167, 159, 159, 0.866) !important;
+}
+
+a:hover{
+    background-color: white;
+    color: black !important;
+    border-radius: 25px;
+}
